@@ -28,7 +28,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/otp-generation.git
+git clone https://github.com/zouraiz523/OTP-generated-Using-Python-Javascript.git
 cd otp-generation
 Run the Python script:
 bash
